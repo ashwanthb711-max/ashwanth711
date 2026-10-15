@@ -1,0 +1,12 @@
+{
+  "name": "bala-graphics-ai-app",
+  "version": "1.0.0",
+  "description": "Bala Graphics banner printing and AI design app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
